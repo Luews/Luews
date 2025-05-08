@@ -1,7 +1,4 @@
-# Bem vindo(a) ao meu perfil! 😁
-## Me chamo Lucas, e costumo ser curioso e criativo
-
-
+# Bem vindo(a) ao meu perfil!
 
 <div>
   <a href="https://github.com/Luews">
